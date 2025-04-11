@@ -16,7 +16,7 @@ A comprehensive monitoring solution for fiber network ISPs and subscribers
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/fiberqms.git
+git clone https://github.com/Charlesmbuu/Fiber-Quality-Monitoring-System.git
 cd fiberqms
 
 # Create virtual environment
